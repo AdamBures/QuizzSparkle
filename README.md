@@ -1,1 +1,1 @@
-# QuizDApp
+# QuizzSparkle
